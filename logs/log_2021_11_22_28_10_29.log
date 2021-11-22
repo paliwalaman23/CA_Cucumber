@@ -1,0 +1,21 @@
+2021-11-22 22:28:37,575  INFO [main] BigSmall:36 - Url has been hitted
+2021-11-22 22:28:44,903  INFO [main] BigSmall:98 -  entered
+2021-11-22 22:28:45,016  INFO [main] BigSmall:101 -  entered
+2021-11-22 22:28:54,514  INFO [main] BigSmall:98 - simon@123 entered
+2021-11-22 22:28:54,631  INFO [main] BigSmall:101 - abcd entered
+2021-11-22 22:29:01,689  INFO [main] BigSmall:98 - JackNJill@gmail.com entered
+2021-11-22 22:29:01,812  INFO [main] BigSmall:101 - JackNJill@123 entered
+2021-11-22 22:29:01,963  INFO [main] BigSmall:31 - going to click on Pggggg
+2021-11-22 22:29:16,212  INFO [main] BigSmall:56 - Successfully sorted the Price from High to low
+2021-11-22 22:29:20,862  INFO [main] BigSmall:60 - Products has been Displayed
+2021-11-22 22:29:38,361  INFO [main] BigSmall:78 - Returned to the Cart
+2021-11-22 22:29:51,662  INFO [main] BigSmall:51 - Product has been added to the Wishlist
+2021-11-22 22:30:00,881  INFO [main] BigSmall:47 - Title under All Of It is verified
+2021-11-22 22:30:04,638  INFO [main] BigSmall:37 - Going to close the popup
+2021-11-22 22:30:08,746  INFO [main] BigSmall:41 - closed the pop up
+2021-11-22 22:30:08,789  INFO [main] BigSmall:49 - Product is present over there in WishList
+2021-11-22 22:30:08,871  INFO [main] BigSmall:31 - Going to click on About us
+2021-11-22 22:30:10,547  INFO [main] BigSmall:33 - cliclked on about us
+2021-11-22 22:30:10,762  INFO [main] BigSmall:42 - Entered in About Us page
+2021-11-22 22:30:18,292  INFO [main] BigSmall:47 - Gift Card has been added to the cart
+2021-11-22 22:30:28,727  INFO [main] BigSmall:43 - Ttile Verfied and Data has been sent successfully

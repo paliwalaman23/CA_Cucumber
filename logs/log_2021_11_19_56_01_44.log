@@ -1,0 +1,11 @@
+2021-11-19 13:56:58,111  INFO [main] BigSmall:36 - Url has been hitted
+2021-11-19 13:57:10,343  INFO [main] BigSmall:98 -  entered
+2021-11-19 13:57:10,543  INFO [main] BigSmall:101 -  entered
+2021-11-19 13:57:22,238  INFO [main] BigSmall:98 - simon@123 entered
+2021-11-19 13:57:22,403  INFO [main] BigSmall:101 - abcd entered
+2021-11-19 13:57:30,638  INFO [main] BigSmall:98 - JackNJill@gmail.com entered
+2021-11-19 13:57:30,802  INFO [main] BigSmall:101 - JackNJill@123 entered
+2021-11-19 13:57:34,137  INFO [main] BigSmall:31 - going to click on Pggggg
+2021-11-19 13:57:51,703  INFO [main] BigSmall:56 - Successfully sorted the Price from High to low
+2021-11-19 13:58:05,825  INFO [main] BigSmall:60 - Products has been Displayed
+2021-11-19 13:58:35,247  INFO [main] BigSmall:31 - Going to click on About us
